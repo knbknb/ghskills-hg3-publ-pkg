@@ -134,7 +134,7 @@ We will add a `Dockerfile` to the `cd` branch. The `Dockerfile` contains a set o
   Define terms and link to docs.github.com.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Merge your changes</h2></summary>
 
 _Let's get publishing! :heart:_
